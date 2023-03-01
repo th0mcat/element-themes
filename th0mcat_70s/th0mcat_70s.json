@@ -1,0 +1,40 @@
+{
+  "name": "th0mcat 70s",
+  "is_dark": true,
+  "colors": {
+    "system": "#2c2a21",
+    "accent-color": "#bd93f9",
+    "primary-color": "#fe8019",
+    "warning-color": "#fb4934",
+    "sidebar-color": "#2E2B25",
+    "roomlist-background-color": "#403B33",
+    "roomlist-text-color": "#a89984",
+    "roomlist-text-secondary-color": "#00ff00",
+    "roomlist-highlights-color": "#00000030",
+    "roomlist-separator-color": "#4d4d4d90",
+    "timeline-background-color": "#282828",
+    "timeline-text-color": "#ebdbb2",
+    "secondary-content": "#928374",
+    "tertiary-content": "#928374",
+    "quaternary-content": "#827d6f",
+    "quinary-content": "#504945",
+    "timeline-text-secondary-color": "#a89984",
+    "timeline-highlights-color": "#00000030",
+    "reaction-row-button-selected-bg-color": "#689d6a",
+    "menu-selected-color": "#504945",
+    "icon-button-color": "#928374",
+    "accent": "#c59b53",
+    "alert": "#cc241d",
+    "username-colors": [
+      "#cc241d",
+      "#98971a",
+      "#d79921",
+      "#458588",
+      "#b16286",
+      "#689d6a",
+      "#a89984",
+      "#d65d0e"
+    ],
+    "avatar-background-colors": ["#458588", "#b16286", "#689d6a"]
+  }
+}
